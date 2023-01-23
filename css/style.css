@@ -1,0 +1,111 @@
+.container {
+    display: flex;
+    width: 100%;
+    background-color: #eafdfc;
+}
+.image1 {
+    width: 100%;
+}
+.image1 img {
+    width: 200px;
+}
+
+.para {
+    line-height: 2;
+    padding: 10px;
+}
+.last {
+    height: fit-content;
+    border: 1px solid;
+    position: relative;
+    top: 20px;
+}
+.date {
+    position: relative;
+    top: 30px;
+    padding-left: 10px;
+    font-weight: 100;
+    height: fit-content;
+}
+.nav {
+    background-color: #f8f4ea;
+    padding: 5px;
+    border-right: rgb(183, 183, 240) solid;
+}
+.menus {
+    display: block;
+    text-decoration: none;
+}
+
+h4 {
+    margin: 0;
+}
+th {
+    text-align: left;
+}
+.middle-main {
+    margin-bottom: 20px;
+}
+.middle1 a {
+    text-decoration: none;
+}
+.middle {
+    display: flex;
+}
+.last img {
+    width: 300px;
+    margin: 5px;
+}
+.middle1 {
+    text-align: end;
+}
+.middle2 {
+    display: inline;
+}
+.middle2-side {
+    display: inline;
+    position: relative;
+    right: -790px;
+}
+form {
+    display: inline;
+}
+.article1 {
+    background-color: #b0d7f5;
+}
+.middle2-side a {
+    text-decoration: none;
+}
+.middle2 a {
+    text-decoration: none;
+}
+.para-one {
+    border: solid;
+    height: fit-content;
+    width: 25%;
+}
+.para-one h3 {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.footer p {
+    margin-left: 210px;
+    margin-top: 0;
+}
+.footer a {
+    text-decoration: none;
+}
+.footer {
+    background-color: #f8f4ea;
+    margin: 0;
+    padding: 0;
+    font-size: smaller;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.footer-1 {
+    margin: 0;
+}
